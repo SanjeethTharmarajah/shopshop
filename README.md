@@ -13,16 +13,8 @@ https://shoshop555-4f44574aa54f.herokuapp.com/
 
 ### Deplyment Instructions
 
-```text
-Heroku
-1. heroku create app_name
-2. git remote -v
-3. git push heroku master
+npm i
 
-MongoDB
-1. Create a new database in MongoDB Atlas Account
-2. Create a user for the database
-3. Copy the connection string that MongoDB Atlas gives you, go to your application's Settings tab through the Heroku dashboard, and paste the connection string as an environment variable under the name (or key) of MONGODB_URI
 
 Example: 
 
