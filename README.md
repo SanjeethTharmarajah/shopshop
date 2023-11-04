@@ -11,11 +11,13 @@
 https://shoshop555-4f44574aa54f.herokuapp.com/
 
 
-### Deplyment Instructions
+### Installtion
 
 npm i
 
 npm run seed
+
+npm run start
 
 ### User Story
 
