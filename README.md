@@ -42,12 +42,3 @@ THEN I find that the app uses Redux instead of the Context API
 WHEN I review the way the app dispatches actions
 THEN I find that the app uses Redux instead of the Context API
 ```
-
-### Instructions
-
-```text
-cd MongoData/ from root directory
-mongod --dbpath=/Users/Priya/MongoData
-
-npm run start
-```
