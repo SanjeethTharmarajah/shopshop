@@ -15,11 +15,7 @@ https://shoshop555-4f44574aa54f.herokuapp.com/
 
 npm i
 
-
-Example: 
-
-mongodb+srv://shopshopuser:P@ssword123@cluster0.twmms.mongodb.net/shop_shop_db?retryWrites=true&w=majority
-```
+npm run seed
 
 ### User Story
 
