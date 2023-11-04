@@ -8,16 +8,8 @@
 
 ### App Deployment
 
-https://shop-shop-app.herokuapp.com/
+https://shoshop555-4f44574aa54f.herokuapp.com/
 
-### Instructions 
-
-```text
-cd
-mkdir MongoData
-cd MongoData
-mongod --dbpath=/Users/Priya/MongoData
-```
 
 ### Deplyment Instructions
 
