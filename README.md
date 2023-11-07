@@ -6,9 +6,6 @@
 
 ![](images/stripe.png)
 
-### App Deployment
-
-https://shoshop555-4f44574aa54f.herokuapp.com/
 
 
 ### Installtion
